@@ -1,0 +1,32 @@
+.wrapped {
+  background-size: cover;
+  background-image: url("https://cdn.pixabay.com/photo/2018/05/12/17/41/background-3394066_1280.jpg");
+  background-attachment: fixed;
+}
+h2 {
+  color:white;
+  position: relative;
+  bottom: 6px;
+}
+.home-page {
+  margin: auto;
+  /* margin-top: 50px; */
+  padding-top: 50px;
+  width: 80%;
+
+}
+.wrapped-table {
+  min-width: 1050px;
+  background-color: lightpink;
+}
+
+.searchbar {
+  position: relative;
+  bottom: 9px;
+}
+
+
+.col col-lg-3 col-md-3 col-sm-3 {
+  position: relative;
+  top: 20px;
+}
